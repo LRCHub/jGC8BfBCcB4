@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シロイカラス",
+  "base_artist": "鈴村健一",
+  "createdAt": "2026-02-16T16:39:14.223803Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シロイカラス",
+      "artist": "鈴村健一",
+      "has_synced": false,
+      "path": "select/pl_01_シロイカラス_鈴村健一.txt"
+    }
+  ]
+}
